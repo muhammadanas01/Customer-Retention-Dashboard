@@ -1,2 +1,3 @@
 # Customer-Retention-Dashboard
-I have created Customer Retention Dashboard containing Details about the how many customers left the telecom comapny. The Dataset is provided by the PWC switzerland
+I have created a Customer Retention Dashboard containing Details about how many customers left the telecom company. The Dataset is provided by PWC Switzerland
+
